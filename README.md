@@ -32,7 +32,7 @@ Gitmasters is a GitHub-focused platform designed to help developers discover Git
 
 1. Clone the repository:
    
-   git clone https://github.com/inzyhere/gitmaster.git
+  ``` git clone https://github.com/inzyhere/gitmaster.git```
 
 2. Open the project folder.
 
